@@ -1,3 +1,5 @@
+[![Build Status](http://ec2-3-104-61-32.ap-southeast-2.compute.amazonaws.com/buildStatus/icon?job=pi-calculation)](http://ec2-3-104-61-32.ap-southeast-2.compute.amazonaws.com/job/pi-calculation/) 
+
 # 03_05 Challenge Connect Jenkins to GitHub
 
 You're on a team developing an algorithm that calculates the value of pi.
